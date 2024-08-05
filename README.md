@@ -1,10 +1,5 @@
 # WKU-SRA-WIKI
 
-<div style="display: flex; justify-content: center; align-items: center;">
-<img style="margin-top: 25px;" src="./public/static/favicons/mstile-150x150.png" alt="Logo" width="150" height="150">
-<img src="./public/static/images/logo.png" alt="Logo" width="100" height="100">
-</div>
-
 
 Hi, WKU-SRA-WIKI is a vault of knowledge especially research information, philosophy, and learning for students at WKU, deveolped, mantained, deployed by the members of the WKU-SRA. It's more than just a research manual; it's a living and collective wisdom and passion of its creators.
 
