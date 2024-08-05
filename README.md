@@ -261,6 +261,6 @@ MIT © WKU-SRA
 贡献者：  
 
 <a href="https://wkusci.com">
-<img src="./public/static/images/logo.png" alt="Logo" width="100" height="100">
+   温肯科协
 </a>
 
